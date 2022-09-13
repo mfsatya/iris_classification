@@ -1,0 +1,1 @@
+docker run -p9999:9999 -d model_api

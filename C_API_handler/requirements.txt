@@ -1,0 +1,10 @@
+schedule
+pymongo
+datetime
+numpy
+tritonclient[ALL]
+pandas
+geventhttpclient
+sklearn
+tornado
+asyncio

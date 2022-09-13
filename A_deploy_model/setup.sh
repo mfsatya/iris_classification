@@ -1,0 +1,1 @@
+docker pull nvcr.io/nvidia/tritonserver:21.06.1-py3

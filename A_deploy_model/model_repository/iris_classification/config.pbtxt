@@ -1,0 +1,16 @@
+platform: "tensorrt_plan"
+max_batch_size: 1
+input [
+  {
+    name: "input_1"
+    data_type: TYPE_FP32
+    dims: [1,1,4]
+  }
+]
+output [
+  {
+    name: "dense_6/Softmax"
+    data_type: TYPE_FP32
+    dims: [3,1,1]
+  }
+]
